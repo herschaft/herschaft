@@ -1,6 +1,6 @@
 # Otavio Herschaft
 
-IT Support Analyst transitioning into software development.
+ADS student focused on software development.
 
 I'm currently focused on **Java, object-oriented programming, software design, and building real projects** while developing my skills through hands-on work and open source.
 
@@ -10,7 +10,7 @@ I'm currently focused on **Java, object-oriented programming, software design, a
 - **Gradle** — build automation and project structure
 - **Git & GitHub** — version control and collaboration
 - **Linux & Nix** — development environments and reproducibility
-- **Microsoft 365, Entra ID & Intune** — IT and identity/device management
+- **Microsoft 365, Entra ID & Intune** — previous IT experience
 
 ## Current project
 
@@ -27,9 +27,10 @@ An educational Java project focused on learning how to structure and develop a r
 
 ## About me
 
-- 🎓 Software Engineering student
-- 💼 IT Support Analyst @ eNor Securities
-- 🐧 Interested in Linux, developer tooling, and software development
+- 🎓 ADS student @ Anhanguera
+- 💻 Focused on software development
+- 🔎 Currently looking for opportunities
+- 🐧 Interested in Linux, developer tooling, and software design
 - 📍 Brazil
 
 [LinkedIn](https://www.linkedin.com/in/otavio-v-freindorfer)
